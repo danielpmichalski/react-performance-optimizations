@@ -1,0 +1,9 @@
+{
+  "short_name": "Speedy React",
+  "name": "React Performance Optimizations tutorial",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
